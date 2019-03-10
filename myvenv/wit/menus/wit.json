@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle wit",
+        "command": "wit:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "wit",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "wit:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
