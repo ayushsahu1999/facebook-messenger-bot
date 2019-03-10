@@ -22,19 +22,37 @@ https://www.python.org/
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+Installing virtual environment
 
 ```
-Give the example
+pip install virtualenv
+```
+Running the Virtual Environment
+
+```
+virtualenv myvenv
+```
+```
+myvenv\Scripts\activate
 ```
 
-And repeat
+Installing Flask
 
 ```
-until finished
+pip install flask
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Installing Requests
+
+```
+pip install requests
+```
+
+Installing Pymessenger
+
+```
+pip install pymessenger
+```
 
 ## Running the tests
 
