@@ -68,29 +68,34 @@ https://ngrok.com/
 ngrok.exe http 80
 ```
 
-## Deployment
+## Activating the python file
 
-Add additional notes about how to deploy this on a live system
+### In command prompt
+```
+python app.py
 
-## Built With
+```
+### Connecting facebook app with python file
+```
+Copy https forwarding url in ngrok
+```
+```
+Paste in callback url under facebook developers webhook topic
+```
+```
+type hello in verify token
+```
+## Using Wit.ai
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+For using wit.ai read the following documentation
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+```
+https://wit.ai/docs
+```
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Ayush Sahu** - *Initial work* - [ayushsahu1999](https://github.com/ayushsahu1999)
 
 ## License
 
