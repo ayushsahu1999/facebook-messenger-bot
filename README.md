@@ -87,7 +87,9 @@ type hello in verify token
 ```
 ## Using Wit.ai
 
+Wit.ai can be used to make your bot smarter and automate more replies.
 For using wit.ai read the following documentation
+
 
 ```
 https://wit.ai/docs
